@@ -12,7 +12,7 @@ html {
     align-items: center;
     min-height: 100vh;
   }
-  h2, h4, p {
+  h2, h4, p, h3 {
     margin: 0;
   }
   *, *:before, *:after {
@@ -62,7 +62,7 @@ html {
     color:#2ab2af;
     margin-bottom: 20px;
   }
-  #top-section h4 {
+  #top-section h3 {
     color:#c0df34;
     margin-bottom: 10px;
   }
