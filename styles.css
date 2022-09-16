@@ -12,7 +12,7 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-h2, h3, p, h4 {
+h1, h2, p{
   margin: 0;
 }
 *, *:before, *:after {
@@ -58,11 +58,11 @@ h2, h3, p, h4 {
   padding: 25px;
 }
 
-#top-section h2 {
+#top-section h1 {
   color:#176362;
   margin-bottom: 20px;
 }
-#top-section h3 {
+#top-section h2 {
   color:#4D5C0A;
   margin-bottom: 10px;
 }
@@ -88,7 +88,7 @@ button:hover{
   font-size: 1.3rem;
 }
 
-#bottom-left h4{
+#bottom-left h2{
   margin-bottom: 25px;
 }
 
