@@ -6,6 +6,11 @@ html {
   }
   body {
     padding:20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
   }
   h2, h4, p {
     margin: 0;
